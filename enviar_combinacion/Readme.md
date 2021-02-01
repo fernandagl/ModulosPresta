@@ -20,13 +20,13 @@ _Es necesario tener acceso al BackOffice de Barcelona LED y a la opción de Mód
 _Para la instalación del módulo es necesario bajar el módulo desde el github o desde producción_
 
 _Paso 1: Descargar el módulo: **enviar_combinacion**_<br>
-_Paso 2: Comprimir la carpeta del módulo (si aún no está comprimido): **enviar_combinacion.zip**_
-_Paso 3: En el BackOffice de Prestashop seleccionar a la opción: **Módulos**_
-_Paso 4: En el BackOffice de Prestashop en la opción **Módulos**: seleccionar **Subir un módulo**_
-_Paso 5: Comprobar que tenemos seleccionada la tienda de España, ya que este módulo solo exporta de España a la tienda de Portugal_
-_Paso 6: Se abrirá una ventana donde subiremos nuestro fichero zip: **enviar_combinacion.zip**_
-_Paso 7: Esperar hasta que termine de instalarse el módulo_
-_Paso 8: Para probar el módulo instalado debemos ir a la opción **Catálogo** y seleccionar la opción **Productos**_
+_Paso 2: Comprimir la carpeta del módulo (si aún no está comprimido): **enviar_combinacion.zip**_<br>
+_Paso 3: En el BackOffice de Prestashop seleccionar a la opción: **Módulos**_<br>
+_Paso 4: En el BackOffice de Prestashop en la opción **Módulos**: seleccionar **Subir un módulo**_<br>
+_Paso 5: Comprobar que tenemos seleccionada la tienda de España, ya que este módulo solo exporta de España a la tienda de Portugal_<br>
+_Paso 6: Se abrirá una ventana donde subiremos nuestro fichero zip: **enviar_combinacion.zip**_<br>
+_Paso 7: Esperar hasta que termine de instalarse el módulo_<br>
+_Paso 8: Para probar el módulo instalado debemos ir a la opción **Catálogo** y seleccionar la opción **Productos**_<br>
 
 
 _Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
