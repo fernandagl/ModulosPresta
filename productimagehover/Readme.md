@@ -6,7 +6,7 @@ _Este módulo esta destinado a mostrar las imágenes asociadas a las combinacion
 
 _Estas en git podemos bajar la última versión del desarrollada de este módulo. También la podemos tener en el monday del día 02/02 subida en un fichero de tipo zip._
 
-Mira **https://github.com/fernandagl/ModulosPresta/tree/main/productimagehover** el módulo se llama **enviar_combinacion** allí podrás descargar el fichero para conocer el proyecto.
+Mira **https://github.com/fernandagl/ModulosPresta/tree/main/productimagehover** el módulo se llama **productimagehover** allí podrás descargar el fichero para conocer el proyecto.
 
 
 ### Pre-requisitos 📋
