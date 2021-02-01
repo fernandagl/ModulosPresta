@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>enviar_combinacion</name>
+    <displayName><![CDATA[Exportar combinaciones de producto]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[Este m&oacute;dulo permite exportar combinaciones de producto a otras tiendas]]></description>
+    <author><![CDATA[Alex Gonesp &lt;alex.gon@barcelonaled.com&gt;,Tazim Nadimul &lt;tazim@barcelonaled.com&gt;,Fernanda Gon&ccedil;alves &lt;fernanda@barcelonaled.com&gt;]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+	<confirmUninstall><![CDATA[Estás seguro que quieres desinstalar este modulo?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
